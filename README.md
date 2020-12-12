@@ -1,4 +1,4 @@
-# Quantium-Intership
+# Quantium-Internship
 Quantium Data Analytics Virtual Experience Program
 
 
